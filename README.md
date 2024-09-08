@@ -1,0 +1,1 @@
+ Let’s build a basic example of a website named "CSK". For simplicity, we'll assume CSK is a fictional organization or company. I'll provide HTML and CSS for a homepage that includes a header, navigation, main content, and footer
